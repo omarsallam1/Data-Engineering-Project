@@ -1,1 +1,1 @@
-StockVision: AI-Based Stock Market Prediction System
+StockVision: Stock Market Prediction System
